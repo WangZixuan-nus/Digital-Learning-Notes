@@ -1,0 +1,14 @@
+name: Generate PDF
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate PDF
+        run: |
+          pandoc README.md -o README.pdf
+      - uses: actions/upload-artifact@v3
+        with:
+          name: pdf-guide
+          path: README.pdf
