@@ -1,8 +1,9 @@
+#学术写作Markdown完全指南
+<!-- SEO优化元数据 -->
+<meta name="keywords" content="Markdown, 学术写作, R Markdown, LaTeX, 论文模板, 科研工具">
+<meta name="description" content="开源学术写作解决方案：整合Markdown+LaTeX+R的全流程论文写作指南，提供开箱即用的毕业论文模板与自动化工作流">
 
 ---
-
-## 中文版
-
 # Markdown 与 R Markdown 终极教程  
 *彻底告别 Word 卡顿与格式烦恼！*
 
@@ -25,17 +26,17 @@
 ---
 
 ## 标签和关键词
-- **Markdown**
-- **R Markdown**
-- **教程**
-- **指南**
-- **学术写作**
-- **可复现研究**
-- **编程**
-- **数据科学**
-- **效率提升**
-- **VS Code**
-- **RStudio**
+- Markdown
+- R Markdown
+- 教程
+- 指南
+- 学术写作
+- 可复现研究
+- 编程
+- 数据科学
+- 效率提升
+- VS Code
+- RStudio
 
 ---
 
