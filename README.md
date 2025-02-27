@@ -6,7 +6,6 @@ Academic Markdown Mastery
 
 ---
 
-```markdown
 # Markdown & R Markdown Ultimate Guide  
 *Say Goodbye to Word’s Lag and Frustration!*
 
